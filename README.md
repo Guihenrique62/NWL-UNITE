@@ -12,13 +12,16 @@ This React-based frontend application complements the Event Management and Check
  - [Typescript](https://www.typescriptlang.org)
  - [React](https://react.dev)
  - [Tailwindcss](https://tailwindcss.com)
- - [Swagger](https://swagger.io)
- - [Sqlite](https://www.sqlite.org)
 
 
  # How Contribute ♻
 
  ```bash
+   # Clone the Project
+   $ git clone git@github.com:Guihenrique62/Pass-in-Server.git
+ ```
+
+```bash
    # Clone the Project
    $ git clone git@github.com:Guihenrique62/Pass-in-Server.git
  ```
