@@ -1,6 +1,6 @@
 <h1 align="center">
    <img src="./src/assets/icon.png">
-   <p>Server node for pass-in-web application! 🚶‍♀️</p>
+   <p>Web App for pass-in application! 🚶‍♀️</p>
 </h1>
 
 ## About 🔍
@@ -18,12 +18,13 @@ This React-based frontend application complements the Event Management and Check
 
  ```bash
    # Clone the Project
-   $ git clone git@github.com:Guihenrique62/Pass-in-Server.git
+   $ git clone git@github.com:Guihenrique62/Pass-in-Web.git
  ```
 
 ```bash
-   # Clone the Project
-   $ git clone git@github.com:Guihenrique62/Pass-in-Server.git
+   # Initialize Project
+   $ npm install
+   $ npm run dev
  ```
 
 
